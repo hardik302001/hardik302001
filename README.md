@@ -1,4 +1,4 @@
-[![Header](https://www.canva.com/design/DAEX38gWCB8/HtZMg84JJFrrgUe5hfaMIg/watch?utm_content=DAEX38gWCB8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)https://prichoms.netlify.app/)
+[![Header](https://www.canva.com/design/DAEX38gWCB8/HtZMg84JJFrrgUe5hfaMIg/view?utm_content=DAEX38gWCB8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
   <div align="center">  
