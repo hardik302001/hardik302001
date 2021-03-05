@@ -4,7 +4,7 @@
   <div align="center">  
 
   <a href="shardik302001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
-
+  
   </div>
  
 # Hola Amigos!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -21,7 +21,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-Flutter-lightgrey)
+![Flutter](https://img.shields.io/badge/-Flutter-lightgrey)
+![Django](https://img.shields.io/badge/-Django-orange)
 
 
 # &#x1f4c8; GitHub Stats
@@ -33,7 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik302001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-
+<a href="https://github.com/hardik302001/DjangoLearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik302001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
 </div>
