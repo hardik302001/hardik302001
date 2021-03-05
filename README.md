@@ -1,5 +1,6 @@
-[![Header](https://www.canva.com/design/DAEX38gWCB8/HtZMg84JJFrrgUe5hfaMIg/view?utm_content=DAEX38gWCB8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")]
 
+    https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png
 
   <div align="center">  
 
