@@ -1,6 +1,6 @@
 [![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")]
 
-    https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png
+ 
 
   <div align="center">  
 
