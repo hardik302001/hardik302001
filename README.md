@@ -9,7 +9,7 @@
   </div>
  
 # Hola Amigos!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### I am HARDIK SHARMA. I am currently a sophomore at IIIT Sri City who loves to do competitive coding .Presently, I am trying my hands on web developmentt and open source programs.
+#### I am HARDIK SHARMA. I am currently a JUNIOR at IIIT Sri City who loves to do competitive coding. Presently, I am trying my hands on web developmentt and open source programs.
 
 # 🔧 Technologies & Tools
 
