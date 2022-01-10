@@ -4,7 +4,7 @@
 
   <div align="center">  
 
-  <a href="shardik2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
+  <a href="mailto:shardik2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
   
   </div>
  
