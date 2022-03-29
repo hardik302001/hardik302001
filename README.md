@@ -27,7 +27,7 @@
 
 
 # &#x1f4c8; GitHub Stats
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hardik302001&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/hardik302001/hardik302001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik302001&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
