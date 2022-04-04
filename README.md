@@ -1,4 +1,4 @@
-[![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")]
+![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")
 
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001)
