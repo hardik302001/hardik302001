@@ -2,7 +2,7 @@
 
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001)
- <img align='right' src="https://github.com/codernishchay/codernishchay/blob/main/undraw_researching_22gp.svg" width="250">
+ <img align='right' src="https://github.com/hardik302001/hardik302001/svg.svg" width="250">
 
   <div align="center">  
 
