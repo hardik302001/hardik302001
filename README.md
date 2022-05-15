@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=hardik302001r&color=black)
+![](https://komarev.com/ghpvc/?username=hardik302001r&color=white)
 
 
 
