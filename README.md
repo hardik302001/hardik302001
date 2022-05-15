@@ -1,5 +1,11 @@
 ![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")
 
+
+
+![](https://komarev.com/ghpvc/?username=hardik302001r&color=black)
+
+
+
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001)
  <img align='right' src="https://github.com/hardik302001/hardik302001/blob/main/svg.svg" width="250">
