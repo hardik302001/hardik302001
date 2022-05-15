@@ -1,11 +1,11 @@
 ![Header](https://github.com/hardik302001/hardik302001/blob/main/HARDIK%20SHARMA.png "Header")
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik302001&theme=solarized_dark)
 
 
 
  
-![Profile View](https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=green)
  <img align='right' src="https://github.com/hardik302001/hardik302001/blob/main/svg.svg" width="250">
 
   <div align="center">  
