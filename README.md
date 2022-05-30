@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=green">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A5F7BF&background=000000&center=true&width=394&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=A5F7BF&background=000000&center=true&width=400&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
 </p>
 
 
