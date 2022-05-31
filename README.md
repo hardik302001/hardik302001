@@ -1,9 +1,9 @@
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=lightblue">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=blue">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A5F7BF&background=000000&center=true&width=420&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=420&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
 </p>
 
 
@@ -67,7 +67,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hardik302001&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hardik302001&theme=react&border=61dafb&hide_border=true" alt="hardik302001" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hardik302001&show_icons=true&theme=react&count_private=true&border_color=61dafb&hide_border=true" />
