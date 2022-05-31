@@ -1,16 +1,16 @@
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=green">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hardik302001.hardik302001&color=lightblue">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A5F7BF&background=000000&center=true&width=400&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=A5F7BF&background=000000&center=true&width=420&lines=+Hey+There!+👋+This+is+HARDIK+SHARMA;">
 </p>
 
 
 
 
 <h2>
-Hey ! I'm Hardik
+Hey,  I'm Hardik
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </img>
 </h2>
@@ -37,7 +37,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 </p>
 
 <hr>
-<h2 align="center">🛠️ Languages & Frameworks & Tools & Abilities </h2>
+<h2 align="center">🛠️ Weapons</h2>
 <br><br>
 <p>
 <img src = "https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" > <img src = "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"> <img src = "https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> 
