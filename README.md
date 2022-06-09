@@ -94,3 +94,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 <h4 align="center">
   <a href="https://github.com/hardik302001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+
+
+![snake gif](https://github.com/hardik302001/hardik302001/blob/output/github-contribution-grid-snake.gif)
