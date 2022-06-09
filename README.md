@@ -58,7 +58,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 
 
 
-<h2 align="center">🐍 Just tryinggto be consistent here, so that the snake would get more to eat! </h2>
+<h2 align="center">🐍 Just trying to be consistent here, so that the snake gets more to eat! </h2>
 <p align="center">
   <img src="https://github.com/hardik302001/hardik302001/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
