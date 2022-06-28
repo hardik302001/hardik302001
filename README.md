@@ -93,8 +93,19 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
+
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/hardik302001/discode" title="DisCode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hardik302001&repo=discode&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+  <a align="right" href="https://github.com/hardik302001/fitness-freaks" title="Fitness-Freaks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hardik302001&repo=fitness-freaks&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+
   <a align="left" href="https://github.com/hardik302001/BlogandUpload-Django" title="Blogand Upload-Django"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hardik302001&repo=BlogandUpload-Django&theme=react&border_color=61dafb&border_radius=10"></a>
+  
   <a align="right" href="https://github.com/hardik302001/YT-GetProductive" title="YT-GetProductive"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hardik302001&repo=YT-GetProductive&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
