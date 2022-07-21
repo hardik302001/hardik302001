@@ -64,7 +64,10 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 </p>
 <br>
 
-
+<hr>
+<p align="center">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=krmcmy9jd7ttucp34zx4q3gm1" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="anky" width="500" align/></a>
+</p>
 <hr>
 
 <h2 align="center">📈 Stats </h2>
