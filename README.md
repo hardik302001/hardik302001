@@ -30,15 +30,16 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
   <br>
   📫 How to reach me: <h5 align="center">
   <br>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-      
-  <br>
+  
       
   <code>
     <a href="https://www.linkedin.com/in/shardik2001/"><img width="5%" src="https://img.icons8.com/fluency/344/linkedin.png"></a></code>
   <code> <a href="mailto:shardik2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a></code>
 </h5>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
+
 
 <hr>
 <h2 align="center">🛠️ Weapons</h2>
