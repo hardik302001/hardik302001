@@ -16,7 +16,7 @@
 <h3>
 I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 </h3>
-  <img align = "right" src = "https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width = "300" height = "200">
+  <img align = "right" src = "https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width = "400" height = "230">
 <p align="left">
   🔬 I'm a Senior, pursuing B-Tech in CSE from IIIT Sri City. 
   <br>
@@ -29,6 +29,9 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
   💬 Ask me anything about from <a href="https://github.com/hardik302001/hardik302001/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <h5 align="center">
+  <br>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
+  
   <code>
     <a href="https://www.linkedin.com/in/shardik2001/"><img width="5%" src="https://img.icons8.com/fluency/344/linkedin.png"></a></code>
   <code> <a href="mailto:shardik2001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a></code>
@@ -66,9 +69,8 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
 
-<hr>
+
 
 <h2 align="center">📈 Stats </h2>
 <br>
