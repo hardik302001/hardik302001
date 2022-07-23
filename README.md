@@ -30,7 +30,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
   <br>
   📫 How to reach me: <h5 align="center">
   <br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
+  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
   
   <code>
     <a href="https://www.linkedin.com/in/shardik2001/"><img width="5%" src="https://img.icons8.com/fluency/344/linkedin.png"></a></code>
