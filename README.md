@@ -66,7 +66,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 
 <hr>
 <p align="center">
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=krmcmy9jd7ttucp34zx4q3gm1" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="anky" width="500" align/></a>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)]]
 </p>
 <hr>
 
