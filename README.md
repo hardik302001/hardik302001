@@ -65,9 +65,7 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 <br>
 
 <hr>
-<div align = "center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
-</div>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=050605&bar_color_cover=true)]]
 <hr>
 
 <h2 align="center">📈 Stats </h2>
