@@ -36,8 +36,8 @@ I'm a Full Stack Developer, Competitive Programmer and Algorithms enthusiast!
 </h5>
 </p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=11e411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true)
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&cover_image=true&theme=novatorem&bar_color=11e411&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=krmcmy9jd7ttucp34zx4q3gm1&redirect=true) -->
 
 
 <hr>
